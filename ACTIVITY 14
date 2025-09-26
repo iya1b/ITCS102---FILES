@@ -1,0 +1,2 @@
+for iya in range(30, 0, -1):
+   print(iya)
